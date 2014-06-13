@@ -1,0 +1,438 @@
+#googleMap {
+	height: 500px;
+}
+
+.login-body{
+	margin: 0;
+	padding: 0;
+	font-family: 'proxima-nova', sans-serif;
+	text-align: center;
+	background: #2358D1;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'proxima-nova', sans-serif;
+	text-align: center;
+}
+
+.logo{
+	float:left !important;
+}
+
+.site {
+	margin-top: 50px;
+}
+
+.login form{
+	font-size: 25px;
+}
+
+.login{
+	margin-top: 50px;
+}
+
+.site-header{
+	margin-top: 10px;
+	background: url(../images/cover.jpg) no-repeat;
+	background-size: cover;
+	height: 400px;
+}
+
+.site-header img{
+	padding:30px;
+}
+
+
+.main-navigation {
+	margin: 0;
+	float:left;
+	font: 20px/25px 'helveticaneuelt_std_ltregular', Helvetica, Arial, sans-serif;
+}
+
+.main-navigation li {
+ 	float: left;
+  	display: block;
+}
+
+
+.main-navigation a{
+	display: block;
+	padding: 10px 0px 10px 0px;
+	margin: 0;
+	text-align:center;
+	color: #333;
+	text-decoration: none;
+	font-size:22px;
+
+}
+
+.main-navigation li {
+	text-align:right;
+	width: 25%;
+}
+
+.main-navigation li:hover a,.footer-navigation li:hover a{
+	color: #0084d5;
+}
+
+
+.main-navigation li:hover li a{
+	text-decoration:none;
+}
+
+.opis {
+	height:250px;
+	text-align: left;
+}
+
+.intro {
+	margin-top: 30px;
+}
+
+
+.odabir form{
+	font-size:25px; 
+	margin-top: 60px;
+	padding: 25px 0 25px 0;
+	background: #C0C0C0;
+}
+
+.odabir select{
+	margin-right: 50px;
+}
+
+.prijedlog p {
+	text-align: left;
+	height: 130px;
+}
+
+.crta p{
+	padding-right: 10px;
+	border-right-width: 2px;
+	border-right-style:solid;
+	border-color: #ccc;
+}
+
+#hotel {
+	height: 400px;
+	margin-bottom:0px; 
+}
+
+.spomenik {
+	background: url(images/spomenik.jpg) no-repeat;
+	background-size: cover;
+	height: 400px;
+	margin-bottom:0px; 
+}
+
+.unos td{
+	padding:30px 0 30px 0;
+}
+
+.unos {
+	text-align: left;
+}
+
+.unos {
+	font-size: 20px;
+}
+
+.karta{
+	margin-top: 17px;
+	margin-bottom: 100px;
+}
+
+.odabir2{
+	margin-top:100px;
+}
+
+.button {
+	font-size: 25px;
+	float: center;
+}
+
+.hoteli{
+	padding-top: 10px;
+	margin-top: 100px;
+	height: 350px;
+}
+
+.karakteristike p {
+	text-align: center;
+}
+
+.rezervacija table{
+	margin-left:60px;
+}
+
+.karta-hotel{
+	margin-top: 350px;
+	position: absolute !important;
+}
+
+.button-rez{
+	float: right;
+	font-size: 25px;
+}
+
+.slika-grad{
+	text-align: left;
+}
+
+.site-footer{
+	background: #6B1C10;
+	height: 100%;
+	margin-top: 100px;
+}
+
+.naslov{
+	text-align: left; 
+	margin-top: 70px;
+}
+
+.popis{
+	text-align:center;
+	width:100%;
+	padding: 30px;
+}
+
+
+.popis  li  a {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;	
+}
+
+.unos td{
+	width:33.333333332%;
+}
+
+.unos table{
+	margin:0 auto;
+	border-spacing:0.2127659574468085%;
+	width:100%;
+}
+.popis  li a:hover{
+	color: black;
+}
+
+.clanak1{
+	background: #6B1C10;
+	padding: 6% 0;
+}
+
+.clanak1 p, h2{
+	color: #FFFFFF;
+}
+
+.clanak a{
+	text-decoration: none;
+	color: black;
+	margin: 0;
+}
+
+.clanak{
+	padding: 20px 0px;
+	margin: 5px 0px;
+	text-align: left;
+	border-style: solid;
+    border-width: 2px;
+	border-color: grey;
+}
+
+.slike img:hover{
+	cursor:pointer;
+}
+
+.gray-boxes {
+	margin: 5% auto;
+	position: relative;
+}
+
+.gray-boxes1 {
+  margin: 10% auto;
+  position: relative;
+}
+
+.wrapper > article > table{
+	text-align: left;
+}
+
+.wrapper > article > table th{
+	padding: 15px;
+}
+
+.imageSlide{
+	background-color: #333;
+	padding-bottom: 10px;
+}
+
+.admin-header {
+	margin-top: 20px;
+	margin-bottom: 40px;
+	background: #2358D1;
+	height: 200px !important;
+}
+
+.admin-article{
+	padding-bottom: 40px;
+}
+
+.admin-header p {
+	margin-top: 50px;
+	float: right;
+	padding:30px;
+	font-weight: bold;
+	color: #b0b0b0;
+}
+
+.admin-header img{
+	padding: 30px;
+}
+
+button {
+	margin-left: 10px;
+}
+
+aside a {
+	display: block;
+	text-decoration: none;
+	color: white;
+	font-size: 22px;
+	background: #2358D1;
+	border-radius:30px;
+	padding: 10px 10px;
+	width: 93%;
+}
+
+aside li {
+	text-decoration:none;
+	list-style-type: none;
+	margin:40px 0 2px 0;
+	border-radius:20px;
+	text-align:center;
+}
+
+aside ul {
+	padding: 0;
+}
+
+.unos2 {
+	margin: 50px;
+	font-size: 25px;
+}
+
+.unos2 label {
+	margin-right: 20px;
+}
+
+.userBttn {
+	float: none !important;
+}
+
+.bttn {
+	margin-left: 20px;
+	float: right;
+	font-size: 25px;
+}
+
+.unos2 td{
+	width: 33.333%;
+	padding:10px 0 10px 0px;
+}
+
+.margin {
+	margin-bottom: 50px;
+}
+
+.unos2 select {
+	width:200px;
+}
+
+.img-bttn1{
+	margin-left: -50px !important;
+}
+
+.img-bttn2{
+	margin-left: -130px !important;
+}
+
+.ha{
+	margin: 100px 20px;
+	float: none !important;
+}
+
+p{
+	color: #787878 ;
+}
+
+h1, h3{
+	color: #404040;
+}
+
+.popis p{
+	font-size: 20px;
+	color:white;
+	
+}
+
+.rez {
+	font-size: 22px !important;
+}
+
+.rez td {
+	padding: 5px 5px !important;
+	text-align: center;
+}
+
+.ikone {
+	margin-top: 5px;
+}
+
+.loginUser {
+	margin-top: -20px;
+	float:right!important;
+	margin-right: 40px;
+}
+
+.logoutUser{
+	float:right;
+	margin-right: 100px;
+	margin-top: -37px;
+}
+
+form a, .logoutUser a {
+	text-decoration: none;
+	color: #0084d5;
+	margin-left: 10px;
+	font-size: 20px;
+}
+
+form a:hover, .logoutUser a:hover{
+	color: #333;
+}
+
+.ikone a {
+	text-decoration: none;
+	color: #0084d5;
+	margin-left: 10px;
+	font-size: 18px;
+}
+
+.ikone a:hover {
+	color: #333;
+	font-size: 17px;
+}
+
+.ikone {
+	text-align: left;
+	margin-left: 50px;
+}
+
+.naslov2{
+	font-size: 20px !important;
+	text-align: center !important;
+}
